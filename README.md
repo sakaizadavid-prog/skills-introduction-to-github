@@ -30,7 +30,63 @@
 *There's no better way to learn than building things!* 🚀
 
 </div>
-
+# David Sakaiza Andrianina
+ 
+## Transformation | Finance | Supply Chain | Commercial | HR | IT
+ 
+Business transformation professional focused on translating strategy
+into practical processes, controls, systems, and measurable performance
+improvement.
+ 
+My experience spans Finance, Supply Chain Management, Commercial,
+Human Resources and IT, with a particular interest in end-to-end
+process transformation and sustainable value creation.
+ 
+## Areas of Expertise
+ 
+- Business Transformation
+- Finance Transformation
+- Process Design & Improvement
+- Purchase-to-Pay (P2P)
+- Accounts Payable
+- Supply Chain & Procurement
+- Internal Controls & Governance
+- Performance Management
+- Business Process Automation
+- Cross-functional Transformation
+ 
+## Professional Development
+ 
+**AICPA & CIMA**
+- CGMA Professional Qualification - In Progress
+- Strategic Case Study (SCS) completed, result pending
+ 
+## Featured Portfolio
+ 
+### Finance & Process Transformation
+Practical examples of finance and operational process design,
+controls, workflows, KPIs and improvement opportunities.
+ 
+### Purchase-to-Pay (P2P)
+End-to-end Purchase-to-Pay process covering:
+- Purchase requisition
+- Purchase order
+- Goods receipt
+- Invoice processing
+- Three-way matching
+- Payment
+- Reconciliation
+- Internal controls
+- KPIs
+ 
+### Process Improvement
+Process assessment, current-state analysis, future-state design,
+RACI, control frameworks and implementation roadmaps.
+ 
+## Resume
+ 
+📄 View my professional resume
+📥 Download PDF resume
 ---
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
